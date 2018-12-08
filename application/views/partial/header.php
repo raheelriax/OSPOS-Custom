@@ -137,6 +137,6 @@
 			</div>
 		</div>
 
-		<div class="container">
+		<div class="container-fluid" style="margin:0 5% 0 5%;">
 			<div class="row">
 	 

@@ -41,7 +41,7 @@ $config['ospos_xss_clean'] = TRUE;
 | Logs are stored in application/logs
 |
 */
-$config['db_log_enabled'] = 4;
+$config['db_log_enabled'] = FALSE;
 
 /* 
 |-------------------------------------------------------------------------- 

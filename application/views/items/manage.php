@@ -31,12 +31,6 @@ $(document).ready(function()
        table_support.refresh();
     });
 
-    // setting width
-    var mainContainer = $('div.container');
-    mainContainer.removeClass('container');
-    mainContainer.addClass('container-fluid');
-    mainContainer.css('margin','0 5% 0 5%');
-
     <?php $this->load->view('partial/bootstrap_tables_locale');    ?>
 
     table_support.init({
